@@ -17,4 +17,5 @@ The confusion matrix is for certain classes more on the main diagonal - but the 
 
 ![](confusion_matrix_combined.png)
 
-Nevertheless the app is deployed on HuggingFace Space: 
+Nevertheless the app is deployed on HuggingFace Space: https://huggingface.co/spaces/stepheu/tomato
+
