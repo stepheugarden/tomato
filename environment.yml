@@ -1,0 +1,12 @@
+name: fastai-tomato
+channels:
+  - defaults
+dependencies:
+  - fastai
+  - ipykernel
+  - gradio
+  - ca-certificates
+  - certifi
+  - openssl
+  - scikit-image
+prefix: /home/stephan/miniconda3/envs/fastai-tomato
